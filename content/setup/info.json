@@ -5,11 +5,5 @@
   "showmenu": true,
   "emailsignup": false,
   "altlayout": false,
-  "menu": [
-    {
-      "name": "Netlify",
-      "position": "3",
-      "link": "https://www.netlify.com/"
-    }
-  ]
+  "menu": []
 }
