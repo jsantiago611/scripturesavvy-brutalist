@@ -2,7 +2,7 @@
   "sitename": "Scripture Savvy",
   "sitedescription": "a bible study blog aimed at integrating spiritual disciplines into busy lives",
   "siteicon": "/images/uploads/icon.png",
-  "showmenu": true,
+  "showmenu": false,
   "emailsignup": false,
   "altlayout": false,
   "menu": []
