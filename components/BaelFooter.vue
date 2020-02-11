@@ -48,6 +48,7 @@
 
             </div>
         </div>
+        <!--
         <div class="xs-text-left xs-p2 xs-border" :class="signupAboutSize">
             <div class="item">
                 <div v-show="connectData" class="footer__heading xs-mb2">Connect</div>
@@ -57,7 +58,7 @@
                     </li>
                 </ul>
             </div>
-        </div>
+        </div>  -->
         <div class="xs-text-left xs-p2 xs-border" :class="signupAboutSize">
             <div class="item">
                 <div class="footer__heading xs-mb2">Deploy</div>
